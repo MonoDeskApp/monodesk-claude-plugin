@@ -1,0 +1,19 @@
+{
+  "name": "monodesk",
+  "description": "The MonoDesk plugin for Claude.",
+  "owner": {
+    "name": "MonoDesk",
+    "email": "support@monodesk.com",
+    "url": "https://www.monodesk.com/"
+  },
+  "plugins": [
+    {
+      "name": "monodesk",
+      "source": "./plugins/monodesk",
+      "description": "Skills for planning, time logging, client updates, project setup, imports and lead follow-up, plus the MonoDesk connector.",
+      "category": "productivity",
+      "license": "MIT",
+      "repository": "https://github.com/MonoDeskApp/monodesk-claude-plugin"
+    }
+  ]
+}

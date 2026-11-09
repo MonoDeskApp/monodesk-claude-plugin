@@ -1,0 +1,20 @@
+{
+  "name": "monodesk",
+  "displayName": "MonoDesk",
+  "version": "0.1.0",
+  "description": "Plan your week, log time, write client updates, set up projects, import from other tools and follow up leads in your MonoDesk workspace.",
+  "author": {
+    "name": "MonoDesk",
+    "email": "support@monodesk.com",
+    "url": "https://www.monodesk.com/"
+  },
+  "homepage": "https://www.monodesk.com/",
+  "repository": "https://github.com/MonoDeskApp/monodesk-claude-plugin",
+  "license": "MIT",
+  "documentationUrl": "https://www.monodesk.com/help",
+  "privacyPolicyUrl": "https://www.monodesk.com/privacy",
+  "supportUrl": "https://www.monodesk.com/help",
+  "termsOfServiceUrl": "https://www.monodesk.com/terms",
+  "icon": "./assets/icon.png",
+  "keywords": ["monodesk", "freelance", "projects", "tasks", "clients", "time-tracking"]
+}
