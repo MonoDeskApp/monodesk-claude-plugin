@@ -9,8 +9,11 @@ You need a MonoDesk account. Sign up at https://www.monodesk.com/.
 On claude.ai, add MonoDesk from **Customize > Plugins**. In Claude Code, run:
 
 ```
-/plugin install monodesk --marketplace MonoDeskApp/monodesk-claude-plugin
+/plugin marketplace add MonoDeskApp/monodesk-claude-plugin
+/plugin install monodesk@monodesk
 ```
+
+The first line adds this repository as a marketplace. The install fails with "not found in marketplace" if you skip it.
 
 ## Skills
 
